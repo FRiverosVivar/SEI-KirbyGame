@@ -26,7 +26,10 @@ if izq{
 
 #endregion
 
-#region //colsion
+if x < -100{
+	x = 350;
+}
 
-
-#endregion
+if x > 400{
+	x = -75;
+}
