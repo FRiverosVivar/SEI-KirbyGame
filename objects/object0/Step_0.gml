@@ -1,5 +1,3 @@
-
-
 #region// Gravedad
 if place_free(x, y+1){
 	gravity = 0.2;

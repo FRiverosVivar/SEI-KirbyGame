@@ -4,6 +4,6 @@ image_speed = 0;
 image_index = 0;
 //xd
 velocidad = 5;
-salto = 25;
+//salto = 25;
 fall = false; //cuando el personaje está cayendo
-up = false; //cuando el personaje está saltando
+//up = false; //cuando el personaje está saltando
