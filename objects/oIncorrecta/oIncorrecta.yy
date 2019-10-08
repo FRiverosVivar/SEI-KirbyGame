@@ -1,19 +1,10 @@
 {
-    "id": "1b05f4f7-e4d3-4c39-9d4c-27d770639694",
+    "id": "2b566a55-fb21-4dc6-b236-8814912fa063",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object1",
+    "name": "oIncorrecta",
     "eventList": [
-        {
-            "id": "29b0a1f4-1122-4759-87aa-39c111eb7ec7",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "1b05f4f7-e4d3-4c39-9d4c-27d770639694"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "3ce13c52-187b-4fb9-89ba-30488f83b20d",
+    "spriteId": "8ca14c0d-236c-41cc-8a41-9e744dfdb0db",
     "visible": true
 }

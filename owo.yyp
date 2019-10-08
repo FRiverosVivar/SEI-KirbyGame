@@ -50,7 +50,7 @@
             "Key": "1b05f4f7-e4d3-4c39-9d4c-27d770639694",
             "Value": {
                 "id": "b4718707-4588-465a-a13f-949505fd89b4",
-                "resourcePath": "objects\/object1\/object1.yy",
+                "resourcePath": "objects\\oPlataforma\\oPlataforma.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -74,7 +74,7 @@
             "Key": "2b566a55-fb21-4dc6-b236-8814912fa063",
             "Value": {
                 "id": "6c9b2792-ffef-46f1-95d8-01e61a3cae8c",
-                "resourcePath": "objects\/object2\/object2.yy",
+                "resourcePath": "objects\\oIncorrecta\\oIncorrecta.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -178,7 +178,7 @@
             "Key": "9f33f42f-260d-45ed-8d56-5724b191b6bf",
             "Value": {
                 "id": "df6b328c-a315-4315-9fe0-a4012fca2a5c",
-                "resourcePath": "objects\/object0\/object0.yy",
+                "resourcePath": "objects\\oPlayer\\oPlayer.yy",
                 "resourceType": "GMObject"
             }
         },
