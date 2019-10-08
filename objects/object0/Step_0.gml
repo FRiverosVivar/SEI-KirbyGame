@@ -31,3 +31,7 @@ if x < -100{
 if x > 400{
 	x = -75;
 }
+
+#region //caída
+
+#endregion
