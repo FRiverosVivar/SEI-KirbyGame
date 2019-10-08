@@ -34,9 +34,32 @@ if x > 400{
 }
 #endregion
 
-#region //caída
+#region //mantener posición
 
 if(oPlayer.y < 190){
 	oPlayer.y= oPlayer.y-vspeed;
 }
+
+#endregion
+
+#region //caída
+if(vspeed>0){
+	fall = true;
+}
+else{
+	fall = false;
+}
+
+#endregion
+
+#region //sprite
+
+if (fall ==true){
+	sprite_index = kirby2;
+}
+
+if(fall == false){
+	sprite_index = kirby1;
+}
+
 #endregion
