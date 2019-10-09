@@ -25,12 +25,12 @@ if izq{
 #endregion
 
 #region //aparecer por el otro lado
-if x < -100{
-	x = 350;
+if x < -50{
+	x = 400;
 }
 
 if x > 400{
-	x = -75;
+	x = -45;
 }
 #endregion
 
