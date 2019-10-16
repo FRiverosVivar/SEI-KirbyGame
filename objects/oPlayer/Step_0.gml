@@ -1,10 +1,14 @@
 #region// Gravedad
-if place_free(x, y+1){
-	gravity = 0.2;
-	fall = true;
+if place_meeting(x, y-1,oPlataforma){
+	gravity = 0;
+	if(keyboard_check_pressed(vk_space)){
+		vspeed = -15;
+	}
 }
 else{
-	gravity = 0;
+
+	gravity = 0.4;
+	fall = true;
 	
 }	
 #endregion
@@ -21,6 +25,7 @@ if izq{
 	image_xscale = -1;
 	x=x-velocidad;
 }
+
 
 #endregion
 
@@ -60,6 +65,14 @@ if (fall ==true){
 
 if(fall == false){
 	sprite_index = kirby1;
+}
+
+#endregion
+
+#region //game over
+if(y>550){
+	instance_create_layer(115, 220, "Instances", TextoFin)
+
 }
 
 #endregion

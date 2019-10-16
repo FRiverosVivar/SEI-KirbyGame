@@ -1,0 +1,1 @@
+secuencia = global.secuenciaCorrecta;

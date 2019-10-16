@@ -1,4 +1,5 @@
 /// saltar personaje
-if(oPlayer.vspeed>0){
-	vspeed = -10;
+if(oPlayer.fall==true){
+	vspeed = 0;
+	
 }
