@@ -26,7 +26,6 @@ if izq{
 	x=x-velocidad;
 }
 
-
 #endregion
 
 #region //aparecer por el otro lado
