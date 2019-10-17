@@ -90,8 +90,16 @@
             "Key": "24fb2379-4616-4b77-9d18-58d48614aae3",
             "Value": {
                 "id": "0bf6dd27-251c-4b60-87c4-2726a1067444",
-                "resourcePath": "objects\\object4\\object4.yy",
+                "resourcePath": "objects\\oSpawnerI\\oSpawnerI.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "2808c738-7ddd-43f3-95f0-90e04ca9f9ad",
+            "Value": {
+                "id": "c65622d8-e8c3-4c8c-8bf6-52622bbe6bf0",
+                "resourcePath": "sprites\\bat\\bat.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -159,6 +167,14 @@
             }
         },
         {
+            "Key": "4fc6a4e5-dbc4-4baf-b2b7-31f94d389aa9",
+            "Value": {
+                "id": "7eb35129-6e92-4c65-a04c-c37243a18242",
+                "resourcePath": "sprites\\sprite10\\sprite10.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "50a2d24c-53f0-46b3-9bac-263c22045f71",
             "Value": {
                 "id": "00d5d12f-6765-415d-8176-eb10309157b3",
@@ -171,6 +187,22 @@
             "Value": {
                 "id": "1e12030e-587b-4afd-ab5a-f9d60fc3ee68",
                 "resourcePath": "objects\\Lava\\Lava.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5ad5448c-f435-437d-bf61-7bc3694862ae",
+            "Value": {
+                "id": "c4c0f8ac-4f40-438f-bb50-1d0951cedb98",
+                "resourcePath": "objects\\oBat\\oBat.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "74d7bfc2-4b5e-43a7-8a66-be854cfd93f1",
+            "Value": {
+                "id": "c1fb6fdc-bcab-4bed-82c8-2fefa3c47dfc",
+                "resourcePath": "objects\\oSpawnerBat\\oSpawnerBat.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -279,6 +311,14 @@
             }
         },
         {
+            "Key": "d95f1223-7867-4c0e-a71e-a93d3c67ab34",
+            "Value": {
+                "id": "07b990fe-ca86-4ec4-b0de-0ea4484de45d",
+                "resourcePath": "objects\\oMovimiento\\oMovimiento.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "edfd4672-45fb-4b11-bb90-5150c2c3d300",
             "Value": {
                 "id": "0c638079-ea0f-4e1d-806f-d20d116c348c",
@@ -308,6 +348,14 @@
                 "id": "4f3f5bf7-e88a-4efa-b50d-88d3f80a1c8c",
                 "resourcePath": "views\/f6baa186-a7bf-46b3-a82b-0f1dfba81aba.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f798d6fd-6d11-4e41-b0ba-97f1f6896af9",
+            "Value": {
+                "id": "1f4c446f-abba-478f-9336-bf04dbc2753a",
+                "resourcePath": "sprites\\spritemov\\spritemov.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
