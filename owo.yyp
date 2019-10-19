@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "02bdfa96-a383-47e7-b0ab-23871deb43d9",
+            "Value": {
+                "id": "2a8af0de-b3de-49a5-b6b2-bc5d71e44fbb",
+                "resourcePath": "objects\\oBotonOpciones\\oBotonOpciones.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "07270d40-8c45-4efd-b126-fbb9e5c74a9f",
             "Value": {
                 "id": "6be4846f-27e3-4878-829d-358f2e04d011",
@@ -199,6 +207,14 @@
             }
         },
         {
+            "Key": "53eceb7d-1f78-431b-aafc-27b05f9424e2",
+            "Value": {
+                "id": "a9e4d8a4-d96d-40fa-ab50-0a811a2d6670",
+                "resourcePath": "objects\\oBotonSalir\\oBotonSalir.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "54982df1-2998-4177-9c6e-3e206d64a5cc",
             "Value": {
                 "id": "1e12030e-587b-4afd-ab5a-f9d60fc3ee68",
@@ -239,6 +255,14 @@
             }
         },
         {
+            "Key": "795aba23-c4be-424b-a121-62029bcde1fe",
+            "Value": {
+                "id": "e3bf6a4a-b9f0-4d39-b952-360e284f914e",
+                "resourcePath": "objects\\oBotonJugar\\oBotonJugar.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7d5dc171-d27f-4bc4-81b3-e19a7b161f38",
             "Value": {
                 "id": "63e76d90-76f3-49f2-93c4-6a59584b245b",
@@ -268,6 +292,14 @@
                 "id": "2149faff-93f5-410c-9cd0-e6181fc44a3d",
                 "resourcePath": "sprites\/sprite3\/sprite3.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8fb0a690-a3ef-4ba7-8309-9bfe77820128",
+            "Value": {
+                "id": "da99e2f4-a097-4f68-a5a2-d7a2c09ec479",
+                "resourcePath": "fonts\\fontInicio\\fontInicio.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -419,6 +451,14 @@
             "Value": {
                 "id": "1a31e8c6-7d7a-4bab-bfbc-b96ce6c1395d",
                 "resourcePath": "sprites\/kirby2\/kirby2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ff33c677-28e9-45d1-aae2-f6491b5d3d9a",
+            "Value": {
+                "id": "cc8b2436-cdc8-4245-928d-ad5222d2fc55",
+                "resourcePath": "sprites\\spriteBoton\\spriteBoton.yy",
                 "resourceType": "GMSprite"
             }
         },
