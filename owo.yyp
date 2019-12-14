@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "1298b210-4246-4eb5-9490-5c35b9be42fd",
+            "Value": {
+                "id": "1368173d-3cae-4d68-bb67-caf30a6ddcbe",
+                "resourcePath": "sprites\\sprite17\\sprite17.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "170459a5-ee96-4118-8eb5-df8a991d8734",
             "Value": {
                 "id": "6e1e1b3e-8f8f-41b4-9233-e00252fbeb65",
@@ -239,6 +247,14 @@
             }
         },
         {
+            "Key": "5ae016e3-0475-4c80-a05b-187ba653b9ee",
+            "Value": {
+                "id": "82f70cf5-df7a-443c-98ce-8f76c39b48f8",
+                "resourcePath": "objects\\oBoss\\oBoss.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5b60ea7f-c33c-4c0d-b9e2-c4d28641eb2a",
             "Value": {
                 "id": "53e81f8d-1824-435e-9b0a-f0a78af30c29",
@@ -268,6 +284,14 @@
                 "id": "e3bf6a4a-b9f0-4d39-b952-360e284f914e",
                 "resourcePath": "objects\/oBotonJugar\/oBotonJugar.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "79ed8ac8-ae75-44b4-ac22-ac4ada72317c",
+            "Value": {
+                "id": "6cb32c0a-13ea-4355-bf87-b9f23cfcc6e4",
+                "resourcePath": "sprites\\boss\\boss.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -372,6 +396,14 @@
                 "id": "3eeecc31-001e-4632-9de4-5ae74783f569",
                 "resourcePath": "objects\/Texto\/Texto.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b2666ab9-2558-4953-9bb9-7d4140267757",
+            "Value": {
+                "id": "64122761-e78c-44f6-8947-66632e04348b",
+                "resourcePath": "rooms\\room2\\room2.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
