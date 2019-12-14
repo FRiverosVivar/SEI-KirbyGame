@@ -5,23 +5,13 @@
     "name": "oSpawnerBat",
     "eventList": [
         {
-            "id": "15ea8406-2ae8-47a1-9a6b-c868e7be1a97",
+            "id": "09b621cc-9206-40b6-bec3-ae2e6e494218",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 2,
-            "m_owner": "74d7bfc2-4b5e-43a7-8a66-be854cfd93f1"
-        },
-        {
-            "id": "bcbd2358-67ea-4bed-a465-feab95e70b61",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
+            "eventtype": 3,
             "m_owner": "74d7bfc2-4b5e-43a7-8a66-be854cfd93f1"
         }
     ],
