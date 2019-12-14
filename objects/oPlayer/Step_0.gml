@@ -2,7 +2,7 @@
 if place_meeting(x, y-1,oPlataforma){
 	gravity = 0;
 	if(keyboard_check_pressed(vk_space)){
-		vspeed = -15;
+		vspeed = -13;
 	}
 }
 else{
