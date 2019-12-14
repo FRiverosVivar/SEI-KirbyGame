@@ -239,11 +239,11 @@
             }
         },
         {
-            "Key": "5b60ea7f-c33c-4c0d-b9e2-c4d28641eb2a",
+            "Key": "6e31f583-2eca-4c5d-82e2-00561ac9ac88",
             "Value": {
-                "id": "53e81f8d-1824-435e-9b0a-f0a78af30c29",
-                "resourcePath": "fonts\/font0\/font0.yy",
-                "resourceType": "GMFont"
+                "id": "55e9e3e4-76a5-4383-adbe-b15cb0bb3334",
+                "resourcePath": "objects\/oBoss\/oBoss.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -276,6 +276,14 @@
                 "id": "63e76d90-76f3-49f2-93c4-6a59584b245b",
                 "resourcePath": "sprites\/kirby1\/kirby1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "87a190a1-578e-4ace-9822-eb02784ddf89",
+            "Value": {
+                "id": "39ed611d-d507-4129-91bf-34b42fda4f44",
+                "resourcePath": "fonts\/font0\/font0.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -371,6 +379,14 @@
             "Value": {
                 "id": "3eeecc31-001e-4632-9de4-5ae74783f569",
                 "resourcePath": "objects\/Texto\/Texto.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bd00c64a-a49e-4dfe-96ad-a69ad8537abc",
+            "Value": {
+                "id": "200a1258-c6ea-4a87-ac7a-80823ffa8e6f",
+                "resourcePath": "objects\/TextoNivel\/TextoNivel.yy",
                 "resourceType": "GMObject"
             }
         },

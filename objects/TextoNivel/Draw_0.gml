@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
-xtext = "Correctas: "
-numC = string_format(global.correctas,2,0);
+xtext = "Nivel: "
+numC = string_format(global.etapa,2,0);
 xtext = xtext + numC;
 //text = global.correctas;
 draw_set_font(font0)
