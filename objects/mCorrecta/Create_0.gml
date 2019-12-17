@@ -1,2 +1,3 @@
-vspeed = 3.5;
+vspeed = 2;
+
 secuencia = 0
