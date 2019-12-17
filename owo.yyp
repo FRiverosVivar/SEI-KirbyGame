@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "2732543f-2618-41bc-abb1-5d96f88a99bf",
+            "Value": {
+                "id": "cbc2f0c0-a101-4e1e-a14a-b1486cd80831",
+                "resourcePath": "views\\2732543f-2618-41bc-abb1-5d96f88a99bf.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "2808c738-7ddd-43f3-95f0-90e04ca9f9ad",
             "Value": {
                 "id": "c65622d8-e8c3-4c8c-8bf6-52622bbe6bf0",
@@ -159,6 +167,14 @@
             }
         },
         {
+            "Key": "2ea19432-bbfd-4a5a-ac99-a65f27e3238a",
+            "Value": {
+                "id": "5e1650f4-5e1b-43b9-a9c7-c285c4df4f37",
+                "resourcePath": "objects\\mCorrecta\\mCorrecta.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "327157e3-1c25-4317-838f-c7d5951d6a94",
             "Value": {
                 "id": "c7fa5fe4-79b3-4fb0-9a9b-519e2be928d7",
@@ -172,6 +188,14 @@
                 "id": "941d4b22-e78d-46b1-9a86-c7683c7153d7",
                 "resourcePath": "views\/3927aff2-f0eb-4828-b2b7-6557f168450e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3cab36e8-a70e-4c15-8aa4-1d1d693e048c",
+            "Value": {
+                "id": "2f471e24-86d4-4d22-800f-656b563e63d5",
+                "resourcePath": "objects\\Secuencia\\Secuencia.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -279,6 +303,22 @@
             }
         },
         {
+            "Key": "5f1848c9-e1bd-421e-b00a-15973e784c6e",
+            "Value": {
+                "id": "7bfa9731-f25b-4c38-918d-6bdd15763d73",
+                "resourcePath": "views\\5f1848c9-e1bd-421e-b00a-15973e784c6e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6fbdd249-e4f0-40a6-9f87-9c32d6929a99",
+            "Value": {
+                "id": "b4818d86-50c1-4d75-a775-eab811e63aa3",
+                "resourcePath": "views\\6fbdd249-e4f0-40a6-9f87-9c32d6929a99.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "74a7501b-953b-404b-8f5b-c0c1e8f467d3",
             "Value": {
                 "id": "73776a84-30de-4a59-84f3-5c3a0cf1cc75",
@@ -292,6 +332,14 @@
                 "id": "c1fb6fdc-bcab-4bed-82c8-2fefa3c47dfc",
                 "resourcePath": "objects\/oSpawnerBat\/oSpawnerBat.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "76be320e-f4b4-45e4-b5a9-d149c52e6033",
+            "Value": {
+                "id": "01caca14-6781-4abc-ac1a-d512ca0cc8f5",
+                "resourcePath": "sprites\\sprite21\\sprite21.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -383,6 +431,14 @@
             }
         },
         {
+            "Key": "a470a9d3-8890-4296-afb7-4927578cbe45",
+            "Value": {
+                "id": "2b0bbf48-24d9-4fd6-908e-52579a3ca6e7",
+                "resourcePath": "sprites\\KirboPlateS\\KirboPlateS.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a671d77e-ae3d-4483-a8eb-3aade277bd2c",
             "Value": {
                 "id": "a03670c5-ab5c-4e6e-a47c-62a1bec798ea",
@@ -447,10 +503,26 @@
             }
         },
         {
+            "Key": "ceeadd0f-96a2-4ace-a697-3f20bb7a5935",
+            "Value": {
+                "id": "e025fb51-af77-4a75-9222-4657c3e1b150",
+                "resourcePath": "sprites\\sprite20\\sprite20.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d95f1223-7867-4c0e-a71e-a93d3c67ab34",
             "Value": {
                 "id": "07b990fe-ca86-4ec4-b0de-0ea4484de45d",
                 "resourcePath": "objects\/oMovimiento\/oMovimiento.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e5dbd33e-ccb1-4c34-97c5-d35023a5a125",
+            "Value": {
+                "id": "7590ae15-758b-494e-af7e-0b2c929f7d34",
+                "resourcePath": "objects\\KirboPlate\\KirboPlate.yy",
                 "resourceType": "GMObject"
             }
         },
