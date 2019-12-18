@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "086d4aab-60c5-47a9-ab9f-65b18ae0ad9e",
+            "Value": {
+                "id": "75fe8b00-e6df-4090-9044-a49de42a4494",
+                "resourcePath": "objects\/oBotonIzq\/oBotonIzq.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0d03f4db-5e14-455b-ab1e-0013e0ffbda6",
             "Value": {
                 "id": "6f1bba30-bf3b-49c1-878b-b146e52f72dd",
@@ -159,6 +167,14 @@
             }
         },
         {
+            "Key": "2c91d397-3e60-4f7a-953f-3dd32cff6f68",
+            "Value": {
+                "id": "88ae5951-b7eb-45c9-ad63-7cfa3b346f3b",
+                "resourcePath": "objects\/oBotonDer\/oBotonDer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2ea19432-bbfd-4a5a-ac99-a65f27e3238a",
             "Value": {
                 "id": "5e1650f4-5e1b-43b9-a9c7-c285c4df4f37",
@@ -220,6 +236,14 @@
                 "id": "efb4f571-c79c-4395-beea-1be1cf376ae6",
                 "resourcePath": "views\/466ef5f6-3a1b-4daa-b717-1fcfd1428255.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "47865e86-41aa-4110-8232-b8fb82dbf80d",
+            "Value": {
+                "id": "180670be-6d8d-4642-9324-614e6f51c12e",
+                "resourcePath": "sprites\/flechader\/flechader.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -503,11 +527,27 @@
             }
         },
         {
+            "Key": "be42ca63-04f0-44d6-b1f7-038278b1c0f6",
+            "Value": {
+                "id": "91ba8cd2-bf91-48cc-abb1-9893bf680bdf",
+                "resourcePath": "views\/be42ca63-04f0-44d6-b1f7-038278b1c0f6.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "bfbb0132-6b56-4533-93cd-4a18f0ad5f0c",
             "Value": {
                 "id": "fda25c5a-73b6-4048-a49e-67638f68304f",
                 "resourcePath": "views\/bfbb0132-6b56-4533-93cd-4a18f0ad5f0c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c3103936-cce7-4591-b2c7-bba826d28618",
+            "Value": {
+                "id": "1863020e-5ae7-4535-905a-c76f5108e2f0",
+                "resourcePath": "sprites\/flechaizq\/flechaizq.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -543,6 +583,14 @@
             }
         },
         {
+            "Key": "d156f2c1-e907-4f71-8c81-5430a27e843c",
+            "Value": {
+                "id": "155bcbec-c99e-42b8-bb50-97223befab23",
+                "resourcePath": "objects\/oSkinKirbo\/oSkinKirbo.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d95f1223-7867-4c0e-a71e-a93d3c67ab34",
             "Value": {
                 "id": "07b990fe-ca86-4ec4-b0de-0ea4484de45d",
@@ -555,6 +603,14 @@
             "Value": {
                 "id": "7590ae15-758b-494e-af7e-0b2c929f7d34",
                 "resourcePath": "objects\/KirboPlate\/KirboPlate.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ec4303d9-dd4b-4633-a7ac-a880b2c5695e",
+            "Value": {
+                "id": "6afe363a-5204-4119-912e-ed2739f744ee",
+                "resourcePath": "objects\/oBotonVolver\/oBotonVolver.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -580,6 +636,14 @@
                 "id": "f5aa89c2-b3bb-4273-a3e3-e4409de66748",
                 "resourcePath": "options\/mac\/options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f49ac583-91fe-41bc-b4de-758721072642",
+            "Value": {
+                "id": "bac170d1-fbaa-4ca0-9b08-7feead586f5d",
+                "resourcePath": "objects\/TextoDecoraKirbo\/TextoDecoraKirbo.yy",
+                "resourceType": "GMObject"
             }
         },
         {

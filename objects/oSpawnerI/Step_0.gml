@@ -11,4 +11,3 @@ if(global.puedeBoss != 1){
 		
 	}
 }
-

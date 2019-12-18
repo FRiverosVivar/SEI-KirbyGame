@@ -1,5 +1,5 @@
 draw_sprite(sprite20, 0, x, y);
-text = secuencia;
+text = global.secuenciaActual;
 draw_set_font(font0)
 if(text == 0){
 	text = " "

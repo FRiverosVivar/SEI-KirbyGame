@@ -6,3 +6,4 @@ if inst != noone
    {    
    with (inst) instance_destroy();
    }
+   
