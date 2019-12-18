@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "3cc9ae18-cba1-4661-8730-9237a252811e",
+            "Value": {
+                "id": "c066bece-1a25-48e5-8239-7cfc225cfb63",
+                "resourcePath": "objects\\mIncorrecta\\mIncorrecta.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3ce13c52-187b-4fb9-89ba-30488f83b20d",
             "Value": {
                 "id": "05cd4e18-0cf0-45d1-9385-4d39edc3bfdd",
