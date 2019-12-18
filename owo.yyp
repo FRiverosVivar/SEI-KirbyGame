@@ -55,14 +55,6 @@
             }
         },
         {
-            "Key": "086d4aab-60c5-47a9-ab9f-65b18ae0ad9e",
-            "Value": {
-                "id": "75fe8b00-e6df-4090-9044-a49de42a4494",
-                "resourcePath": "objects\/oBotonIzq\/oBotonIzq.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "0d03f4db-5e14-455b-ab1e-0013e0ffbda6",
             "Value": {
                 "id": "6f1bba30-bf3b-49c1-878b-b146e52f72dd",
@@ -135,6 +127,14 @@
             }
         },
         {
+            "Key": "246a423f-8e9d-4896-b234-9f0ea95bbfce",
+            "Value": {
+                "id": "d0867777-6cb5-4e23-b549-269e39c1ef12",
+                "resourcePath": "objects\/oBotonVolver\/oBotonVolver.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "24fb2379-4616-4b77-9d18-58d48614aae3",
             "Value": {
                 "id": "0bf6dd27-251c-4b60-87c4-2726a1067444",
@@ -167,14 +167,6 @@
             }
         },
         {
-            "Key": "2c91d397-3e60-4f7a-953f-3dd32cff6f68",
-            "Value": {
-                "id": "88ae5951-b7eb-45c9-ad63-7cfa3b346f3b",
-                "resourcePath": "objects\/oBotonDer\/oBotonDer.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "2ea19432-bbfd-4a5a-ac99-a65f27e3238a",
             "Value": {
                 "id": "5e1650f4-5e1b-43b9-a9c7-c285c4df4f37",
@@ -188,6 +180,14 @@
                 "id": "c7fa5fe4-79b3-4fb0-9a9b-519e2be928d7",
                 "resourcePath": "sounds\/conchetumare\/conchetumare.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "35b0cba7-766b-496f-ac1d-890ebe110abd",
+            "Value": {
+                "id": "9cef36f2-0029-4694-8c43-d925d7e4f658",
+                "resourcePath": "objects\/oKirboSkin\/oKirboSkin.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "3cc9ae18-cba1-4661-8730-9237a252811e",
+            "Value": {
+                "id": "c066bece-1a25-48e5-8239-7cfc225cfb63",
+                "resourcePath": "objects\/mIncorrecta\/mIncorrecta.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3ce13c52-187b-4fb9-89ba-30488f83b20d",
             "Value": {
                 "id": "05cd4e18-0cf0-45d1-9385-4d39edc3bfdd",
@@ -236,14 +244,6 @@
                 "id": "efb4f571-c79c-4395-beea-1be1cf376ae6",
                 "resourcePath": "views\/466ef5f6-3a1b-4daa-b717-1fcfd1428255.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "47865e86-41aa-4110-8232-b8fb82dbf80d",
-            "Value": {
-                "id": "180670be-6d8d-4642-9324-614e6f51c12e",
-                "resourcePath": "sprites\/flechader\/flechader.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -324,6 +324,14 @@
                 "id": "53e81f8d-1824-435e-9b0a-f0a78af30c29",
                 "resourcePath": "fonts\/font0\/font0.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "61862aa2-34fb-470d-9eed-3a093e5a6df5",
+            "Value": {
+                "id": "83cea5b2-7ba7-40c5-9457-10a1baa60dcb",
+                "resourcePath": "views\/61862aa2-34fb-470d-9eed-3a093e5a6df5.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -527,14 +535,6 @@
             }
         },
         {
-            "Key": "be42ca63-04f0-44d6-b1f7-038278b1c0f6",
-            "Value": {
-                "id": "91ba8cd2-bf91-48cc-abb1-9893bf680bdf",
-                "resourcePath": "views\/be42ca63-04f0-44d6-b1f7-038278b1c0f6.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "bfbb0132-6b56-4533-93cd-4a18f0ad5f0c",
             "Value": {
                 "id": "fda25c5a-73b6-4048-a49e-67638f68304f",
@@ -543,27 +543,11 @@
             }
         },
         {
-            "Key": "c3103936-cce7-4591-b2c7-bba826d28618",
-            "Value": {
-                "id": "1863020e-5ae7-4535-905a-c76f5108e2f0",
-                "resourcePath": "sprites\/flechaizq\/flechaizq.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "c5dd98de-1e82-41a9-989f-d6ad2d48958c",
             "Value": {
                 "id": "388a8729-cb3a-4b9b-9652-724feef2ede4",
                 "resourcePath": "objects\/oSpawner\/oSpawner.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "c7fdb883-610a-406c-9455-5fe5d93bbb32",
-            "Value": {
-                "id": "a167eef3-5796-4e3a-87eb-19fa2c5ff36d",
-                "resourcePath": "rooms\/room4\/room4.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
@@ -583,14 +567,6 @@
             }
         },
         {
-            "Key": "d156f2c1-e907-4f71-8c81-5430a27e843c",
-            "Value": {
-                "id": "155bcbec-c99e-42b8-bb50-97223befab23",
-                "resourcePath": "objects\/oSkinKirbo\/oSkinKirbo.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "d95f1223-7867-4c0e-a71e-a93d3c67ab34",
             "Value": {
                 "id": "07b990fe-ca86-4ec4-b0de-0ea4484de45d",
@@ -607,11 +583,11 @@
             }
         },
         {
-            "Key": "ec4303d9-dd4b-4633-a7ac-a880b2c5695e",
+            "Key": "ea8d2e99-fb76-4d18-8c66-72704b9a27e9",
             "Value": {
-                "id": "6afe363a-5204-4119-912e-ed2739f744ee",
-                "resourcePath": "objects\/oBotonVolver\/oBotonVolver.yy",
-                "resourceType": "GMObject"
+                "id": "47a6a6a3-9997-4b84-8ec4-2ad28e2af436",
+                "resourcePath": "rooms\/room11\/room11.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -636,14 +612,6 @@
                 "id": "f5aa89c2-b3bb-4273-a3e3-e4409de66748",
                 "resourcePath": "options\/mac\/options_mac.yy",
                 "resourceType": "GMMacOptions"
-            }
-        },
-        {
-            "Key": "f49ac583-91fe-41bc-b4de-758721072642",
-            "Value": {
-                "id": "bac170d1-fbaa-4ca0-9b08-7feead586f5d",
-                "resourcePath": "objects\/TextoDecoraKirbo\/TextoDecoraKirbo.yy",
-                "resourceType": "GMObject"
             }
         },
         {
