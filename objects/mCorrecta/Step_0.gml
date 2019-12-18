@@ -1,4 +1,4 @@
-if (mCorrecta.x > 425){
+if (mCorrecta.y > 425){
 	global.apples = 0
-	instance_destroy()
+	instance_destroy();
 }
