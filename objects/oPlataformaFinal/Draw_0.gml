@@ -1,4 +1,4 @@
-draw_sprite(sprite2, 0, x, y);
+draw_self()
 text = "Jefe"
 draw_text(x,y,text,);
 draw_set_halign(fa_center)

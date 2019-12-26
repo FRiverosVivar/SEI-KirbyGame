@@ -8,3 +8,4 @@ else{
 if(oPlataformaFinal.y > 550 ){
 	instance_destroy();	
 }
+

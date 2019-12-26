@@ -7,3 +7,4 @@ velocidad = 5;
 fall = false; //cuando el personaje está cayendo
 //up = false; //cuando el personaje está saltando
 global.ignorar4primeras = 0
+window_set_fullscreen(true)
