@@ -3,6 +3,16 @@
 var inst;
 inst = instance_place(x, y, mCorrecta);
 global.hpboss -= 10;
+
+if(global.hpboss <= 0){
+	global.etapa++;
+	global.puedeBoss = 0;
+	global.portalBoss =0;
+	display_set_gui_size(400, 550)
+	room_goto(room0)
+	
+}
+
 if inst != noone
 {	
 	with (inst)instance_destroy();
