@@ -7,4 +7,3 @@ hAncho = 15;
 hAltura = 160;
 hBarX = 485;
 hBarY = 115;
-

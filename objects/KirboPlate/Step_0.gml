@@ -1,3 +1,5 @@
+if (global.pause) exit;
+
 #region  //movimiento
 var der = keyboard_check(vk_right);
 var izq = keyboard_check(vk_left);

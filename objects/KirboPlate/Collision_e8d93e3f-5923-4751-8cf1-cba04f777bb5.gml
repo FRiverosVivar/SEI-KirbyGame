@@ -9,6 +9,8 @@ if(global.hpboss <= 0){
 	global.puedeBoss = 0;
 	global.portalBoss =0;
 	display_set_gui_size(400, 550)
+	window_set_size(400, 550);
+	surface_resize(application_surface,400,550);
 	room_goto(room0)
 	
 }
