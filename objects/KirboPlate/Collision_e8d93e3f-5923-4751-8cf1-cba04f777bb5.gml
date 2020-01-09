@@ -5,9 +5,10 @@ inst = instance_place(x, y, mCorrecta);
 global.hpboss -= 10;
 
 if(global.hpboss <= 0){
-	global.etapa++;
+	global.controladorEtapa++;
 	global.puedeBoss = 0;
 	global.portalBoss =0;
+	global.controladorSecuencia = irandom_range(5,15);	
 	display_set_gui_size(400, 550)
 	window_set_size(400, 550);
 	surface_resize(application_surface,400,550);

@@ -1,28 +1,18 @@
 {
-    "id": "8045451e-0fbd-4e57-b836-1092bf84cdc8",
+    "id": "53f67d5a-9cba-4ce3-88b7-c0038ea0d3e4",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object22",
+    "name": "obj_ControladorEtapaSec",
     "eventList": [
         {
-            "id": "9bb31f05-3f03-4b18-b55d-0a3f53d216d4",
+            "id": "927e5ee8-7ac9-4b4f-ba59-33206f5d5292",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "8045451e-0fbd-4e57-b836-1092bf84cdc8"
-        },
-        {
-            "id": "79d43ce6-cc0e-485f-90a2-add351597c0f",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "8045451e-0fbd-4e57-b836-1092bf84cdc8"
+            "m_owner": "53f67d5a-9cba-4ce3-88b7-c0038ea0d3e4"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",

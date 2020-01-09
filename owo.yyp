@@ -74,7 +74,7 @@
             "Key": "1636e614-0b7a-4372-9ea8-c1a2ecc9b1a6",
             "Value": {
                 "id": "abc52fd8-889d-4d91-8a25-f73a96405909",
-                "resourcePath": "sprites\\sprite27\\sprite27.yy",
+                "resourcePath": "sprites\/sprite27\/sprite27.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -282,7 +282,7 @@
             "Key": "4b770a16-1fd5-405f-b6d8-367e91340906",
             "Value": {
                 "id": "e98390c6-cf3c-4c15-a084-97cb95527c92",
-                "resourcePath": "sprites\\explosion\\explosion.yy",
+                "resourcePath": "sprites\/explosion\/explosion.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -307,6 +307,14 @@
             "Value": {
                 "id": "a9e4d8a4-d96d-40fa-ab50-0a811a2d6670",
                 "resourcePath": "objects\/oBotonSalir\/oBotonSalir.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "53f67d5a-9cba-4ce3-88b7-c0038ea0d3e4",
+            "Value": {
+                "id": "d9e519cf-4010-4540-a599-e41a2bd4754d",
+                "resourcePath": "objects\/obj_ControladorEtapaSec\/obj_ControladorEtapaSec.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -522,7 +530,7 @@
             "Key": "a18b59fe-07c5-4a3f-8ff4-ed2466c5e092",
             "Value": {
                 "id": "7b1cbe51-f3bb-4746-bb65-9a9cacd116e3",
-                "resourcePath": "objects\\obj_pause\\obj_pause.yy",
+                "resourcePath": "objects\/obj_pause\/obj_pause.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -706,7 +714,7 @@
             "Key": "fd646416-d636-4c36-945a-f351047b527a",
             "Value": {
                 "id": "a7dd4d52-7070-44af-bf96-07c3e47a2f15",
-                "resourcePath": "objects\\obj_feedback\\obj_feedback.yy",
+                "resourcePath": "objects\/obj_feedback\/obj_feedback.yy",
                 "resourceType": "GMObject"
             }
         },
