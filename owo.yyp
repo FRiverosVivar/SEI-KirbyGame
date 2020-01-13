@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "3dbf8bd6-fdae-47b8-a048-eff0454adb3a",
+            "Value": {
+                "id": "f3fb1d2f-60f8-48f8-8638-f02de3d4fc6f",
+                "resourcePath": "objects\\botonRevivir\\botonRevivir.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3fc02d91-3afb-4725-9125-641b7a8208e0",
             "Value": {
                 "id": "bd3ad2d0-9e28-4099-81cb-35afc29c13eb",
@@ -316,6 +324,14 @@
                 "id": "d9e519cf-4010-4540-a599-e41a2bd4754d",
                 "resourcePath": "objects\/obj_ControladorEtapaSec\/obj_ControladorEtapaSec.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "541ef8da-f3f3-4620-b6b0-1182ceaf6c62",
+            "Value": {
+                "id": "26ea25f4-a5d5-42c5-9cfc-d56d070ebd9b",
+                "resourcePath": "sprites\\sprite29\\sprite29.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -479,6 +495,14 @@
             }
         },
         {
+            "Key": "92dacd06-11f1-48d0-b4e2-7b38338771b9",
+            "Value": {
+                "id": "cf2c1e9e-b6f2-4fd1-a1a5-b7e87f305cdd",
+                "resourcePath": "sprites\\spriteBotonRevivir\\spriteBotonRevivir.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "94fb0155-1d86-4b10-843b-1760b56af640",
             "Value": {
                 "id": "a1aa5113-1e44-42b5-b157-5b497e33ebd9",
@@ -523,6 +547,14 @@
             "Value": {
                 "id": "1ca8f79e-c839-4a89-86b1-82cc02468c90",
                 "resourcePath": "objects\/oPlataformaFinal\/oPlataformaFinal.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a07f8a30-b27c-4996-b864-88bc775dae4b",
+            "Value": {
+                "id": "156e39ad-6b11-463f-bb90-edcc2f490e9c",
+                "resourcePath": "objects\\oInicializador\\oInicializador.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -628,6 +660,14 @@
                 "id": "d20a0871-5e77-44f9-a1d0-d7845d998e5b",
                 "resourcePath": "sprites\/sBarraBorde\/sBarraBorde.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d7ec59b9-7296-4447-b068-04461c4fd1a0",
+            "Value": {
+                "id": "388004a8-96bd-4f17-8dc3-bd605e72c513",
+                "resourcePath": "views\\d7ec59b9-7296-4447-b068-04461c4fd1a0.yy",
+                "resourceType": "GMFolder"
             }
         },
         {

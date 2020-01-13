@@ -16,7 +16,9 @@
         "acde30ea-1c4a-410b-b405-81b3bd0ae517",
         "54982df1-2998-4177-9c6e-3e206d64a5cc",
         "5ad5448c-f435-437d-bf61-7bc3694862ae",
-        "47f0a589-52a4-4c73-ad81-f00abaeb2467"
+        "47f0a589-52a4-4c73-ad81-f00abaeb2467",
+        "3dbf8bd6-fdae-47b8-a048-eff0454adb3a",
+        "a07f8a30-b27c-4996-b864-88bc775dae4b"
     ],
     "filterType": "GMObject",
     "folderName": "JumpRoom",

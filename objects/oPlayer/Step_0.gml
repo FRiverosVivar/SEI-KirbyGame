@@ -69,9 +69,18 @@ if(fall == false){
 #endregion
 
 #region //game over
-if(y>550){
-	instance_create_layer(115, 220, "Instances", TextoFin)
-
+if(y>550 && global.revivir = false){
+	instance_create_layer(room_width/2 , room_height/2, "Instances", botonRevivir)
+	global.revivir = true;
 }
+#endregion
 
+#region //revivir
+if(global.inicio == true){
+	vspeed = -20;
+	x = room_width/2 ;
+	y = room_height/2 ;
+	global.revivir = false;
+	global.inicio = false
+}
 #endregion
